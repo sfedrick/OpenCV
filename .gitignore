@@ -1,14 +1,12 @@
+#ignore binary files
 # Ignore all
 *
-
 # Unignore all with extensions
 !*.*
-
 # Unignore all dirs
 !*/
 
 Cmake ignore
-
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
